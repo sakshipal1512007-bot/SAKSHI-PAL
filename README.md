@@ -51,11 +51,7 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 ![Hackathons](https://img.shields.io/badge/Hackathons-1+-pink?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)
 
-<!-- Dynamic GitHub Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sakshipal1512007bot&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.shion.dev/api?username=sakshipal1512007bot&show_icons=true&theme=dark" height="150"/>
-</div>
+
 
 
 ### ✍️ Random Dev Quote
