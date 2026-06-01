@@ -50,6 +50,7 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 ![](https://github-contributor-stats.vercel.app/api?username=sakshipal1512007-bot&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
