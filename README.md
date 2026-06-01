@@ -43,9 +43,6 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
 </div>
-## 👩‍💻 Coding Vibes
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hello+I'm+Sakshi+Pal;Data+Science+Engineer;AI+Engineer;Python+Developer)](https://git.io/typing-svg)
-
 🏆 Achievements & Highlights:
 
 ![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007bot?label=Followers&style=for-the-badge&color=blue)
