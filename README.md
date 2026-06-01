@@ -58,7 +58,15 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshipal1512007-bot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributions
+
+![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-DataScienceProjects-blue?style=for-the-badge)
+![Recent Contributions](https://img.shields.io/badge/Contributions-1000+-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active-green?style=for-the-badge)
+
+<!-- Dynamic GitHub Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
