@@ -43,6 +43,9 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
 </div>
+## 👩‍💻 Coding Vibes
+<img src="https://media.giphy.com/media/LMt9638dO8dftqhYkN/giphy.gif" width="400" alt="Coding GIF">
+
 🏆 Achievements & Highlights:
 
 ![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007bot?label=Followers&style=for-the-badge&color=blue)
@@ -58,7 +61,6 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-## 🔝 Top Contributions
 
 ![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-DataScienceProjects-blue?style=for-the-badge)
 ![Recent Contributions](https://img.shields.io/badge/Contributions-1000+-orange?style=for-the-badge)
