@@ -45,9 +45,9 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshipal1512007-bot&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=sakshipal1512007bot&theme=dark)
+
 
 
 ### ✍️ Random Dev Quote
