@@ -45,8 +45,8 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 </div>
 🏆 Achievements & Highlights:
 
-![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007bot?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/sakshipal1512007bot?label=Stars&style=for-the-badge&color=yellow)
+![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007-bot?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/sakshipal1512007-bot?label=Stars&style=for-the-badge&color=yellow)
 ![Repos](https://img.shields.io/badge/Public%20Repos-10+-green?style=for-the-badge)
 ![Hackathons](https://img.shields.io/badge/Hackathons-1+-pink?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)
