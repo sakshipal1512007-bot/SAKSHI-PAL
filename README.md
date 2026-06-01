@@ -43,15 +43,15 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
 </div>
-
-## 🏆 Achievements & Highlights
-
+🏆 Achievements & Highlights:
 ![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/sakshipal1512007?label=Stars&style=for-the-badge&color=yellow)
 ![Repos](https://img.shields.io/badge/Public%20Repos-30-green?style=for-the-badge)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007&theme=dark&hide_border=false)
 ![Hackathons](https://img.shields.io/badge/Hackathons-10+-pink?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-20+-purple?style=for-the-badge)
+<!-- Dynamic Commit/Contribution Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007&show_icons=true&theme=dark)
 
 
 
