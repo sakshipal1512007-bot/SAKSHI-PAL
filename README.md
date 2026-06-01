@@ -44,7 +44,7 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else.
 
 </div>
 ## 👩‍💻 Coding Vibes
-<img src="https://media.giphy.com/media/LMt9638dO8dftqhYkN/giphy.gif" width="400" alt="Coding GIF">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hello+I'm+Sakshi+Pal;Data+Science+Engineer;AI+Engineer;Python+Developer)](https://git.io/typing-svg)
 
 🏆 Achievements & Highlights:
 
