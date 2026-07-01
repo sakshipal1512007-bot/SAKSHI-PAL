@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** building real-world projects **
-- 🌱 **I’m currently learning:** About Machine learnig  and Gate preparetion
+- 🌱 **I’m currently learning:** About Machine learning  and Gate preparetion
 - 🤔 **I’m looking for help with:** I am looking for help with:
 🤝 Advanced Machine Learning & Deep Learning
 🤝 Big Data Tools & Cloud Pipelines
