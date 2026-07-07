@@ -1,8 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Exploring+Data+with+Pandas;ML+%7C+Python+%7C+SQL)
-
 <p align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="100"/>
 </p>
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Exploring+Data+with+Pandas;ML+%7C+Python+%7C+SQL)
 
 
 
