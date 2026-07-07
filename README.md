@@ -119,14 +119,25 @@ MISSION     :: Turn Data → Insights → Impact
 # ⚡ GITHUB METRICS
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=/sakshipal1512007-bot&theme=github_dark"/>
-
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark" alt="Contribution Graph" />
+</p>
+
 
 ---
 ## 🏆 Achievements
