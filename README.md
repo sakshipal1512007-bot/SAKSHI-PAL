@@ -93,7 +93,6 @@ MISSION     :: Turn Data → Insights → Impact
 
 # 📊 GITHUB ANALYTICS
 <!-- Dynamic GitHub Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
 
 ---
