@@ -100,20 +100,29 @@ MISSION     :: Turn Data → Insights → Impact
   <img src="https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshipal1512007-bot&theme=radical)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshipal1512007-bot&theme=radical)
-
 
 
 </div>
 
 ---
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=sakshipal1512007-bot&theme=darkhub)  
+![GitHub Followers](https://img.shields.io/github/followers/sakshipal1512007-bot?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/sakshipal1512007-bot?label=Stars&style=for-the-badge&color=yellow)
+![Repos](https://img.shields.io/badge/Public%20Repos-10+-green?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/Hackathons-1+-pink?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark)  
 
 ![Snake animation](https://github.com/sakshipal1512007/sakshipal1512007-bot/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Dynamic GitHub Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
+
+---
+[![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
+
 
 ---
 
