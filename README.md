@@ -57,6 +57,10 @@ MISSION     :: Turn Data → Insights → Impact
 
 ---
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzsakshi_pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-pal-b1575a29b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Check out my Pinterest profile! https://pin.it/2ihFzYYM9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tashu-w2c?si=lr3_wZpl8QJxNdq4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipal1512007@gmail.com) 
+
+
 ## 🚀 Featured Projects
 | Project | Description |
 |---------|-------------|
@@ -95,6 +99,9 @@ MISSION     :: Turn Data → Insights → Impact
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -118,11 +125,6 @@ Status : Analyzing...
   
 Kaggle:Sakshi Pal  
 Gmail : sakshipal1512007@gmail.com
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzsakshi_pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-pal-b1575a29b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Check out my Pinterest profile! https://pin.it/2ihFzYYM9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tashu-w2c?si=lr3_wZpl8QJxNdq4)
-
-<!-- Dynamic GitHub Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
 
 
 ---
