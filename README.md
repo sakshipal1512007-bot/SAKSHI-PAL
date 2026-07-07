@@ -114,8 +114,6 @@ MISSION     :: Turn Data → Insights → Impact
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark)  
 
-![Snake animation](https://github.com/sakshipal1512007/sakshipal1512007-bot/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Dynamic GitHub Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007&theme=react-dark&hide_border=true)
