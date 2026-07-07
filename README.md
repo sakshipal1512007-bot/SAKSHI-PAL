@@ -112,8 +112,8 @@ MISSION     :: Turn Data → Insights → Impact
 ---
 
 # 📈 CONTRIBUTION GRAPH
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007&theme=react-dark) 
 
-[![Rishabh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=/sakshipal1512007-bot&theme=tokyo-night)](https://github.com/rishabhchauhan45)
 
 ---
 
