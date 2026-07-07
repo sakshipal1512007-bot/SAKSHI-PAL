@@ -92,20 +92,13 @@ MISSION     :: Turn Data → Insights → Impact
 
 
 # 📊 GITHUB ANALYTICS
-## 📊 GitHub Analytics
+<!-- Dynamic GitHub Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshipal1512007-bot&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshipal1512007-bot&theme=radical" />
-</p>
 
 
 
@@ -115,15 +108,13 @@ MISSION     :: Turn Data → Insights → Impact
 
 ---
 
-# 🏆 GITHUB TROPHIES
+### 🔝 Top Contributed Repo
 
-<p align="center">
+![Most Active Repo](https://img.shields.io/badge/Most%20Active%20Repo-DataScienceProjects-blue?style=for-the-badge)
+![Recent Contributions](https://img.shields.io/badge/Contributions-1000+-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active-green?style=for-the-badge)
 
-<img src="https://github-profile-trophy.vercel.app/?username=/sakshipal1512007-bot&theme=algolia&column=4&margin-w=10&margin-h=10"/>
 
-</p>
-
----
 
 # ⚡ GITHUB METRICS
 
