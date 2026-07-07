@@ -78,7 +78,9 @@ MISSION     :: Turn Data → Insights → Impact
   <img src="https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshipal1512007-bot&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshipal1512007-bot&theme=radical)
+
 
 
 </div>
@@ -116,6 +118,7 @@ Status : Analyzing...
   
 Kaggle:Sakshi Pal  
 Gmail : sakshipal1512007@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzsakshi_pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-pal-b1575a29b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Check out my Pinterest profile! https://pin.it/2ihFzYYM9) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tashu-w2c?si=lr3_wZpl8QJxNdq4)
 
 <!-- Dynamic GitHub Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
