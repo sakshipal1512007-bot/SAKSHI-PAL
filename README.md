@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Cartoon Panda Image -->
-  <img src="assets/panda.png" width="120"/>
+  <img src="57556297.png" width="120"/>
 </p>
 
 
