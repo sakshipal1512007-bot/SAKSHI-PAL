@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sakshi Pal
-
+> 🎯 Data Analyst | ML Enthusiast | Building AI Solutions
 Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** building real-world projects **
@@ -41,7 +41,6 @@ MISSION     :: Turn Data → Insights → Impact
 ## 📊 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
@@ -79,10 +78,8 @@ MISSION     :: Turn Data → Insights → Impact
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical&cache_seconds=60)
 
 ---
-
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=sakshipal1512007-bot&theme=darkhub)  
 
