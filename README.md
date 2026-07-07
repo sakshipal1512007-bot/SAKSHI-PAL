@@ -128,11 +128,6 @@ MISSION     :: Turn Data → Insights → Impact
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark" alt="Contribution Graph" />
 </p>
