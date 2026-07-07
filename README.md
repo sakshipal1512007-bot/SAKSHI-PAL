@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Sakshi Pal
 > 🎯 Data Analyst | ML Enthusiast | Building AI Solutions
+
 Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** building real-world projects **
@@ -77,6 +78,9 @@ MISSION     :: Turn Data → Insights → Impact
   <img src="https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical)
+
+
 </div>
 
 ---
@@ -110,8 +114,8 @@ Status : Analyzing...
 
 🌐 Connect With Me
   
-Kaggle (kaggle.com in Bing)  
-Gmail (gmail.com in Bing)
+Kaggle:Sakshi Pal  
+Gmail : sakshipal1512007@gmail.com
 
 <!-- Dynamic GitHub Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
