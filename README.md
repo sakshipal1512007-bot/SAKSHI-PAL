@@ -186,13 +186,9 @@ LIFE_CYCLE:
 
 ---
 
-<div align="center">
 
 ### ⚡ "Code. Build. Learn. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer"/>
-
-</div>
 
 
 
