@@ -112,14 +112,14 @@ MISSION     :: Turn Data → Insights → Impact
 ![Hackathons](https://img.shields.io/badge/Hackathons-1+-pink?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects-10+-purple?style=for-the-badge)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark)  
-
 <!-- Dynamic GitHub Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007&theme=react-dark&hide_border=true)
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical&cache_seconds=3600)
 
----
-[![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical&cache_seconds=3600)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark&hide_border=true)
 
 
 ---
