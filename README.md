@@ -118,7 +118,7 @@ MISSION     :: Turn Data → Insights → Impact
 
 <!-- Dynamic GitHub Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007&theme=react-dark&hide_border=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)](https://komarev.com/ghpvc/?username=sakshipal1512007-bot)
