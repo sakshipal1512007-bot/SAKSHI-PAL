@@ -153,10 +153,9 @@ MISSION     :: Turn Data → Insights → Impact
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+# 💀 TERMINAL
 
-
-## ⚡ Terminal
-```markdown
+```bash
 PS C:\Sakshi> python run_analysis.py
 ✔ Clean Data  
 ✔ Train Model  
@@ -165,7 +164,7 @@ PS C:\Sakshi> python run_analysis.py
 ✔ Repeat  
 
 Status : Analyzing...
-
+''''
 🌐 Connect With Me
   
 Kaggle:Sakshi Pal  
@@ -184,6 +183,19 @@ LIFE_CYCLE:
 - **Dynamic widgets** (stats, trophies, snake animation)  
 - **Terminal workflow** for fun branding  
 - **Connect With Me** section for recruiters  
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Build. Learn. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer"/>
+
+</div>
+
+
+
 
 
 
