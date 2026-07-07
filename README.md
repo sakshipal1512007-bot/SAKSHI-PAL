@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Exploring+Data+with+Pandas;ML+%7C+Python+%7C+SQL)
+  <!-- Centered Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Welcome+to+Sakshi's+Profile;Let's+Explore" />
+  
+</p>
 
 <p align="center">
   <!-- Cartoon Panda Image -->
