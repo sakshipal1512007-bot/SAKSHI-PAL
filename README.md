@@ -90,15 +90,50 @@ MISSION     :: Turn Data → Insights → Impact
 
 ---
 
-## 📈 GitHub Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)  
 
-# 📊 GitHub Stats:
-<div align="center">
+# 📊 GITHUB ANALYTICS
 
-  <img src="https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=/sakshipal1512007-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/sakshipal1512007-bot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=/sakshipal1512007-bot&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+[![Rishabh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=/sakshipal1512007-bot&theme=tokyo-night)](https://github.com/rishabhchauhan45)
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=/sakshipal1512007-bot&theme=algolia&column=4&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# ⚡ GITHUB METRICS
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=/sakshipal1512007-bot&theme=github_dark"/>
+
+</p>
 
 
 
@@ -136,6 +171,9 @@ Status : Analyzing...
   
 Kaggle:Sakshi Pal  
 Gmail : sakshipal1512007@gmail.com
+
+LIFE_CYCLE:
+  Code → Debug → Optimize → Deploy → Repeat
 
 
 ---
