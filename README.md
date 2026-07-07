@@ -1,3 +1,31 @@
+# 💫 Hi 👋, I'm Sakshi Pal
+
+Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** building real-world projects **
+- 🌱 **I’m currently learning:** About Machine learning  and Gate preparetion
+- 🤔 **I’m looking for help with:** I am looking for help with:
+🤝 Advanced Machine Learning & Deep Learning
+🤝 Big Data Tools & Cloud Pipelines
+🤝 Deployment & MLOps Practices
+🤝 Domain-Specific AI Projects (Healthcare, Retail)
+🤝 Research Collaboration in NLP & Computer Vision
+🤝 Career Guidance & Networking Opportunities
+
+- 💬 **Ask me about:** 
+✔️ Data Cleaning & Preprocessing
+✔️ Machine Learning Models
+✔️ SQL & Database Management
+✔️ Data Visualization
+✔️ Hackathon Pipelines & Gesture Control
+✔️ Workflow Optimization & Troubleshooting
+
+- 📫 **How to reach me:** sakshipal1512007@gmail.com
+- 😄 **Pronouns:** Sakshi
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+
 # ⚡ INITIALIZING DATA SCIENCE PROFILE...
 
 USER        :: Sakshi Pal
@@ -43,8 +71,15 @@ MISSION     :: Turn Data → Insights → Impact
 ## 📈 GitHub Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=sakshipal1512007-bot&color=blue&style=for-the-badge)  
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical)  
+# 📊 GitHub Stats:
+<div align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=sakshipal1512007-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=sakshipal1512007-bot&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakshipal1512007-bot&theme=dark&hide_border=false&layout=compact" height="150"/>
+
+</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 
