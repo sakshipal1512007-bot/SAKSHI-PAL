@@ -112,7 +112,7 @@ MISSION     :: Turn Data → Insights → Impact
 ---
 
 # 📈 CONTRIBUTION GRAPH
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007&theme=react-dark) 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark) 
 
 
 ---
