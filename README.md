@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Cartoon Panda Image -->
-  <img src="144724945.jpeg" width="120"/>
+  <img src="144724945.jpeg" width="240"/>
 </p>
 
 
