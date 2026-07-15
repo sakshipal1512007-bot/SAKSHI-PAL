@@ -14,7 +14,7 @@
 # 💫 Hi 👋, I'm Sakshi Pal
 > 🎯 Data Analyst | ML Enthusiast | Building AI Solutions
 
-Email Me 👉 ✉️ **sakshipal1512007@gmail.com** ForProject or Anything Else. 😊😊
+Email Me 👉 ✉️ **sakshipal1512007@gmail.com** For Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** building real-world projects **
 - 🌱 **I’m currently learning:** About Machine learning  and Gate preparetion
