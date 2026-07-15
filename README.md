@@ -36,7 +36,7 @@ Email Me 👉 ✉️ **sakshipal1512007@gmail.com** For Project or Anything Else
 
 - 📫 **How to reach me:** sakshipal1512007@gmail.com
 - 😄 **Pronouns:** Sakshi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 
 
