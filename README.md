@@ -121,21 +121,11 @@ MISSION     :: Turn Data → Insights → Impact
 
 </p>
   <!-- GitHub Stats -->
-<div align="center">
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical&cache_seconds=3600)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
-
-</div>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark" alt="Contribution Graph" />
 </p>
