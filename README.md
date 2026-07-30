@@ -119,16 +119,14 @@ MISSION     :: Turn Data → Insights → Impact
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshipal1512007-bot&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user==sakshipal1512007-bot&theme=tokyonight&hide_border=true"/>
 
