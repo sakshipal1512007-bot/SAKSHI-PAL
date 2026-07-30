@@ -115,15 +115,14 @@ MISSION     :: Turn Data → Insights → Impact
 
 
 # ⚡ GITHUB METRICS
-# 📊 GITHUB ANALYTICS
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username==sakshipal1512007-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipal1512007-bot&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username==sakshipal1512007-bot&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
