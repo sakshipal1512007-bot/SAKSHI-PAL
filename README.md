@@ -114,10 +114,12 @@ MISSION     :: Turn Data → Insights → Impact
 ![Open Source](https://img.shields.io/badge/Open%20Source-Active-green?style=for-the-badge)
 
 
-
 # ⚡ GITHUB METRICS
-
 <p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshipal1512007-bot&theme=github_dark"/>
+
+</p>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
