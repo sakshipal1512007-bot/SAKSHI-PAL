@@ -115,24 +115,14 @@ MISSION     :: Turn Data → Insights → Impact
 
 
 # ⚡ GITHUB METRICS
-## 📊 GitHub Stats & Streak
-
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshipal1512007-bot&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-<img src="https://streak-stats.demolab.com?user==sakshipal1512007-bot&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshipal1512007-bot&theme=github_dark"/>
 
 </p>
 
 ---
+
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark" alt="Contribution Graph" />
