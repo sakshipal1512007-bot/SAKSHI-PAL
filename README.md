@@ -115,16 +115,25 @@ MISSION     :: Turn Data → Insights → Impact
 
 
 # ⚡ GITHUB METRICS
+# 📊 GITHUB ANALYTICS
+
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshipal1512007-bot&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username==sakshipal1512007-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username==sakshipal1512007-bot&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-  <!-- GitHub Stats -->
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshipal1512007-bot&show_icons=true&theme=radical&cache_seconds=3600)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshipal1512007-bot&theme=radical&hide_border=true)
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user==sakshipal1512007-bot&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshipal1512007-bot&theme=react-dark" alt="Contribution Graph" />
